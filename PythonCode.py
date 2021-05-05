@@ -79,7 +79,7 @@ d_map['Rate2'] = pd.cut(d_map.Rate, bins, labels = labels2)
     
 #This is too memory intensive, so use online map shaper to reduce specificity of the map
   
-ltlamap = pd.read_json(r'C:\Users\epayne.esure\Downloads\Local_Authority_Districts__April_2019__UK_BGC.json')
+ltlamap = pd.read_json(r'C:.......\Local_Authority_Districts__April_2019__UK_BGC.json')
 ltlamapsep = ltlamap['features'].to_list()
 
 ltlamapsingle = {'type' : 'FeatureCollection',
