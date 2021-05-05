@@ -1,7 +1,7 @@
 # UKCovidMap
-UK Covid-19 Choropleth interactive map in python using Dash to host on local computer
+UK Covid-19 Choropleth interactive & dynamic map in python using Dash to host on local computer
 
-This map has been created as part of a project to mimic the Gov UK covid dashboard in python using Dash.
+This map has been created as part of a project to mimic the Gov UK covid dashboard in python using Dash, and will update accordingly to the API.
 To create this there are two map layers, one being the base and the one on top to display click-data and update the card.
 
 https://user-images.githubusercontent.com/46895687/117132538-e2687f00-ad9a-11eb-9989-e9d7232c2f63.MOV
