@@ -12,7 +12,7 @@ https://coronavirus.data.gov.uk/details/interactive-map
 
 Code updated produces a single web page, the entire web app will be uploaded seperately
 
-Video to explain the code and how-to create the correct map file to follow, (as a couple of fine details)
+Video to explain the code and how-to create the correct map file: https://youtu.be/6gqHiSFD7yI
 
 The data used has come straight from the Coronavirus UK API app, details on how to use, you can find here:
 https://publichealthengland.github.io/coronavirus-dashboard-api-python-sdk/pages/getting_started.html
